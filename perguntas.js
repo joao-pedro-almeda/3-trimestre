@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'Oque é javascript?',
-    'O javascript é uma linguagem de programação'
+    'Oque é phyton?',
+    'O phyton é uma linguagem de programação'
 )
 
 criaCartao(
@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação 2.0',
+    'Programação',
     'O que é uma função',
     'Uma função é um bloco de codigo que executa alguma tarefa'
 ) 
